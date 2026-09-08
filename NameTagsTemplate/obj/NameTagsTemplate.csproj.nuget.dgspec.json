@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grind\\Downloads\\NameTagsTemplate\\NameTagsTemplate\\NameTagsTemplate.csproj": {}
+    "C:\\Users\\grind\\OneDrive\\Documents\\GitHub\\NameTags\\NameTagsTemplate\\NameTagsTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grind\\Downloads\\NameTagsTemplate\\NameTagsTemplate\\NameTagsTemplate.csproj": {
+    "C:\\Users\\grind\\OneDrive\\Documents\\GitHub\\NameTags\\NameTagsTemplate\\NameTagsTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grind\\Downloads\\NameTagsTemplate\\NameTagsTemplate\\NameTagsTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\grind\\OneDrive\\Documents\\GitHub\\NameTags\\NameTagsTemplate\\NameTagsTemplate.csproj",
         "projectName": "NameTagsTemplate",
-        "projectPath": "C:\\Users\\grind\\Downloads\\NameTagsTemplate\\NameTagsTemplate\\NameTagsTemplate.csproj",
+        "projectPath": "C:\\Users\\grind\\OneDrive\\Documents\\GitHub\\NameTags\\NameTagsTemplate\\NameTagsTemplate.csproj",
         "packagesPath": "C:\\Users\\grind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grind\\Downloads\\NameTagsTemplate\\NameTagsTemplate\\obj\\",
+        "outputPath": "C:\\Users\\grind\\OneDrive\\Documents\\GitHub\\NameTags\\NameTagsTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grind\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "netstandard2.1": {
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

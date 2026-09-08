@@ -5,7 +5,6 @@ using NameTagsTemplate.Tags;
 
 namespace NameTagsTemplate.Tags
 {
-    /// <summary>Extension methods for VRRig.</summary>
 
     public static class VRRigExtensions
     {
@@ -19,8 +18,6 @@ namespace NameTagsTemplate.Tags
             rig.GetContainer()?.PlayerStats.FPS ?? 0;
     }
 
-    /// <summary>The nametag that floats above a player's head, showing their nickname.</summary>
-    /// 
     public class Name : TagTracker
     {
         public Name() : base(UnityEngine.Color.white, 0.8f) { }
@@ -33,10 +30,7 @@ namespace NameTagsTemplate.Tags
                    $"Ping: {rig.GetPing()}ms\n" +
                    $"FPS: {rig.GetFps()}\n" +
                    $"Platform: {platform}\n" +
-                   $"Master: {rig.Creator.IsMasterClient}\n" +
-                   $"Local: {rig.Creator.IsLocal}\n" +
-                   $"InRoom: {rig.Creator.InRoom}\n" +
-                   $"Valid: {rig.Creator.IsValid}";
+                   $"Master: {rig.Creator.IsMasterClient}\n";
         }
     }
 }

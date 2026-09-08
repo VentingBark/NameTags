@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = NameTagsTemplate
-build_property.ProjectDir = C:\Users\grind\Downloads\NameTagsTemplate\NameTagsTemplate\
+build_property.ProjectDir = C:\Users\grind\OneDrive\Documents\GitHub\NameTags\NameTagsTemplate\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

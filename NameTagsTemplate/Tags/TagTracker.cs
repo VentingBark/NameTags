@@ -70,14 +70,11 @@ namespace NameTagsTemplate.Tags
 
             tag.GetComponent<TextMeshPro>().text = GetText(rig);
 
-            // Keep the tag floating just above the player's head.
-            // (Rotating the tag to face the camera is handled separately by
-            // the TMPLookAt component that NametagCreator attaches to it.)
             Transform head = rig.transform.Find("Head") ?? rig.transform;
             tag.transform.position = head.position + new Vector3(0f, heightOffset, 0f);
         }
 
-        /// <summary>What should this player's tag say? Implemented by Name and Platform.</summary>
+
         protected abstract string GetText(VRRig rig);
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NameTagsTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe3377207f392edaaae0f8a82f3b448fd555070")]
 [assembly: System.Reflection.AssemblyProductAttribute("NameTagsTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NameTagsTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
